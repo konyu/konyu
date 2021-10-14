@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![konyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=konyu&show_icons=true&theme=radical)](#)
+
+- 📫 How to reach me: yusukedrive+github@gmail.com
 <!--
 **konyu/konyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
